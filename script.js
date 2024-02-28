@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', async function() {
 
 
 const fetchData = (async (inputValue) => {
-  const url = "https://script.google.com/macros/s/AKfycbzha_8pb9FusdyTd1bcrlKq6J7jj52HyxB4dXwOj-3mF7nuzCXb6lm2oL0iyG0FFXKGKg/exec"  // ลิงค์ exec
+  const url = "https://script.google.com/macros/s/AKfycbzybg8PHbHtqlzQnmIT4lLieyXte-WqPKcqdeTIxz3HDoUrp7ldv-ICfooYk-9wbENw/exec"  // ลิงค์ exec
 
 
   const response = await fetch(url, {
